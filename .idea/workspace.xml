@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="write the public string method" />
+    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="write the getters and setter of private methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,7 @@
       <workItem from="1705720779564" duration="3196000" />
       <workItem from="1705996770735" duration="2578000" />
       <workItem from="1706200350800" duration="15000" />
-      <workItem from="1706200456684" duration="853000" />
+      <workItem from="1706200456684" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="Created classes Person, Employee and Student">
       <option name="closed" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706201145956</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="write the getters and setter of private methods">
+      <option name="closed" value="true" />
+      <created>1706201352068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706201352068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +124,7 @@
     <MESSAGE value="write private fields in Person.java" />
     <MESSAGE value="create interface Payable and give double" />
     <MESSAGE value="write the public string method" />
-    <option name="LAST_COMMIT_MESSAGE" value="write the public string method" />
+    <MESSAGE value="write the getters and setter of private methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="write the getters and setter of private methods" />
   </component>
 </project>

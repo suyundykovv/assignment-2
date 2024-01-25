@@ -40,3 +40,13 @@ class Person implements Comparable<Person>, Payable {
     public String getPosition() {
         return "Person";
     }
+    @Override
+    public double getPaymentAmount() {
+        return 0.0;
+    }
+
+    @Override
+    public int compareTo(Person other) {
+        return Double.compare(this.getPaymentAmount(), other.getPaymentAmount());
+    }
+}

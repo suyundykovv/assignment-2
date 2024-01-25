@@ -10,3 +10,20 @@ class Student extends Person {
         super(name, surname);
         this.gpa = gpa;
     }
+    public double getGpa() {
+        return gpa;
+    }
+
+    public void setGpa(double gpa) {
+        this.gpa = gpa;
+    }
+
+    public String toString() {
+        return String.format("Student: %s earns %.2f tenge", super.toString(), getPaymentAmount());
+    }
+
+    @Override
+    public double getPaymentAmount() {
+        return (gpa > 2.67) ? STIPEND : 0.0;
+    }
+}

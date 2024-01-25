@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="write getter and setter with override for Employee.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="finished main and all code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <workItem from="1705720779564" duration="3196000" />
       <workItem from="1705996770735" duration="2578000" />
       <workItem from="1706200350800" duration="15000" />
-      <workItem from="1706200456684" duration="2797000" />
+      <workItem from="1706200456684" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="Created classes Person, Employee and Student">
       <option name="closed" value="true" />
@@ -146,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706202560038</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finished main and all code">
+      <option name="closed" value="true" />
+      <created>1706203401509</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706203401509</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +179,7 @@
     <MESSAGE value="writed getter and override for Student.java" />
     <MESSAGE value="write public and super for Employee.java" />
     <MESSAGE value="write getter and setter with override for Employee.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="write getter and setter with override for Employee.java" />
+    <MESSAGE value="finished main and all code" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished main and all code" />
   </component>
 </project>

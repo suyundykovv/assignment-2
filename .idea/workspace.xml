@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="Created classes Person, Employee and Student" />
+    <list default="true" id="cf38ef9c-ffe2-4e8b-9477-6f7ee2689a44" name="Changes" comment="write the public string method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -59,7 +60,7 @@
       <workItem from="1705720779564" duration="3196000" />
       <workItem from="1705996770735" duration="2578000" />
       <workItem from="1706200350800" duration="15000" />
-      <workItem from="1706200456684" duration="376000" />
+      <workItem from="1706200456684" duration="853000" />
     </task>
     <task id="LOCAL-00001" summary="Created classes Person, Employee and Student">
       <option name="closed" value="true" />
@@ -69,7 +70,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706200659341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="write private fields in Person.java">
+      <option name="closed" value="true" />
+      <created>1706200940077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706200940077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="create interface Payable and give double">
+      <option name="closed" value="true" />
+      <created>1706201045448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706201045448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="write the public string method">
+      <option name="closed" value="true" />
+      <created>1706201145956</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706201145956</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +113,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created classes Person, Employee and Student" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created classes Person, Employee and Student" />
+    <MESSAGE value="write private fields in Person.java" />
+    <MESSAGE value="create interface Payable and give double" />
+    <MESSAGE value="write the public string method" />
+    <option name="LAST_COMMIT_MESSAGE" value="write the public string method" />
   </component>
 </project>

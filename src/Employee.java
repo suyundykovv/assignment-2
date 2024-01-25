@@ -11,3 +11,24 @@ class Employee extends Person {
         this.position = position;
         this.salary = salary;
     }
+    public String getPosition() {
+        return position;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
+    public String toString() {
+        return String.format("Employee: %s earns %.2f tenge", super.toString(), getPaymentAmount());
+    }
+
+    @Override
+    public double getPaymentAmount() {
+        return salary;
+    }
+}
